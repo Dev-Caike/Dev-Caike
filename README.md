@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Banner Caike Ribeiro">
+  <img src="./banner%20caike.gif" width="100%" alt="Banner Caike Ribeiro">
 </p>
 <h2 align="center">👋 Olá, eu sou Caike</h2>
 
