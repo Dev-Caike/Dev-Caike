@@ -32,13 +32,8 @@ Tenho interesse principalmente em desenvolvimento Back-end e busco evoluir conti
 
 ---
 
-### 🛠️ Tecnologias
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,postgres,git,github,vscode" />
-</p>
 
----
 
 ### 📊 GitHub Stats
 
